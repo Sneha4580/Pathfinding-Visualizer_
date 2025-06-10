@@ -26,7 +26,8 @@ Witness the visualizer in action, showcasing pathfinding and algorithm selection
 
 A clear path found using Dijkstra's algorithm, showing visited nodes and the shortest path.
 
-![Screenshot 2025-06-09 233853](https://github.com/user-attachments/assets/0e659eec-9d62-4d9a-8b06-6bccfea22f3e)
+![Screenshot 2025-06-10 122851](https://github.com/user-attachments/assets/4d78e59b-154c-4c0b-ab16-a43dbdd4eea1)
+
 
 
 
