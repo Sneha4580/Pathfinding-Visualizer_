@@ -54,7 +54,7 @@ A clear path found using Dijkstra's algorithm, showing visited nodes and the sho
 
 The user interface allowing selection between Dijkstra's, BFS, and DFS algorithms.
 
-(https://github.com/user-attachments/assets/df9214df-387f-46a3-964e-77a02aaef4a5)
+![Screenshot 2025-06-10 122851](https://github.com/user-attachments/assets/e492d451-a677-446d-a0a7-7a7bb454688e)
 
 
 
