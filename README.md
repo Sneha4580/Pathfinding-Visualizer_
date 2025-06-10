@@ -26,7 +26,8 @@ Witness the visualizer in action, showcasing pathfinding and algorithm selection
 
 A clear path found using Dijkstra's algorithm, showing visited nodes and the shortest path.
 
-(https://github.com/user-attachments/assets/c3917ce2-4d0b-4ce6-acf2-6b7b83336fef)
+![Screenshot 2025-06-09 233853](https://github.com/user-attachments/assets/0e659eec-9d62-4d9a-8b06-6bccfea22f3e)
+
 
 
 
@@ -35,7 +36,8 @@ A clear path found using Dijkstra's algorithm, showing visited nodes and the sho
 
 A clear path found using BFS algorithm, showing visited nodes and the shortest path.
 
-![Screenshot 2025-06-09 233853](https://github.com/user-attachments/assets/370f3467-10de-4f8d-966c-f2329f5973d9)
+![Screenshot 2025-06-09 233817](https://github.com/user-attachments/assets/8c6061fc-052b-4372-a83c-b76c3e9cb139)
+
 
 
 
@@ -44,7 +46,8 @@ A clear path found using BFS algorithm, showing visited nodes and the shortest p
 
 A clear path found using DFS algorithm, showing visited nodes and the shortest path.
 
-![Dijkstra's Algorithm Visualization](images/Screenshot%202025-06-09%20233817.png)
+![Screenshot 2025-06-09 233939](https://github.com/user-attachments/assets/f271652b-606c-4552-948a-688d30fa85a1)
+
 
 
 
