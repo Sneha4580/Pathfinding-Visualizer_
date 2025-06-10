@@ -34,7 +34,6 @@ A clear path found using Dijkstra's algorithm, showing visited nodes and the sho
 
 ### BFS Algorithm in Action
 
-A clear path found using BFS algorithm, showing visited nodes and the shortest path.
 
 ![Screenshot 2025-06-09 233817](https://github.com/user-attachments/assets/8c6061fc-052b-4372-a83c-b76c3e9cb139)
 
@@ -44,7 +43,6 @@ A clear path found using BFS algorithm, showing visited nodes and the shortest p
 
 ### DFS Algorithm in Action
 
-A clear path found using DFS algorithm, showing visited nodes and the shortest path.
 
 ![Screenshot 2025-06-09 233939](https://github.com/user-attachments/assets/f271652b-606c-4552-948a-688d30fa85a1)
 
